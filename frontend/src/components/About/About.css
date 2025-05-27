@@ -1,0 +1,32 @@
+
+
+
+.about-us {
+  border: 1px solid #ccc;
+  padding: 24px;
+  color: rgb(83, 68, 68);
+  transition: box-shadow 0.3s ease;
+  border-radius: 15px;
+}
+.about-us h1{
+     text-align: center;
+    color: black;
+
+}
+
+.about-us:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.about-us h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  /* color: rgb(240, 180, 68); */
+  color: rgb(243, 134, 46);
+
+}
+
+.about-us p {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
